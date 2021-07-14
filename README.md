@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JAKER3
+- 👀 I’m interested in software engineering and cyber security
+- 🌱 I’m currently learning cyber security
